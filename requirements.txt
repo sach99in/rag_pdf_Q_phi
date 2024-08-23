@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+requests
+sentence-transformers
+faiss-cpu
+numpy
+huggingface_hub
+PyMuPDF
+spacy
